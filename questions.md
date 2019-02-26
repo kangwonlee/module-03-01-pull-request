@@ -12,3 +12,12 @@ I proposed a couple of pull requests but IMHO the acceptance rate is not so high
 
 World is not perfect and I believe codes can help, at least a little bit.  However, I find myself carried away from writing more such code lines.  How can I find more motivations and time?
 
+## How can I designate a person as the reviewer?
+
+I tried to add a person as a reviewer but Github does not let me. How can I? Is it because the person is not a member of the project?
+
+## Can a PR have more than reviewers ?
+
+Possible?
+If so, how to make final decisions? And? Or?
+
